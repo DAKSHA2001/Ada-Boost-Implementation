@@ -1,2 +1,2 @@
 # Ada-Boost-Implementation
-Program showing the training of an AdaBoost Model in Machine Learning
+Program showing the implementation of an AdaBoost Model in Machine Learning
